@@ -1,9 +1,9 @@
 class Attest < Formula
   desc "Local completion-attestation gate for Claude Code subagents"
   homepage "https://github.com/ek33450505/attest"
-  url "https://github.com/ek33450505/attest/archive/refs/tags/v0.2.0.tar.gz"
-  # sha256 of the v0.2.0 github archive tarball (archive/refs/tags); verified byte-stable.
-  sha256 "31996abe57e2f184e4702cac207b9a7ee90d6a6573c1f4b128b5c50d2d060989"
+  url "https://github.com/ek33450505/attest/archive/refs/tags/v0.3.0.tar.gz"
+  # sha256 of the v0.3.0 github archive tarball (archive/refs/tags); verified byte-stable.
+  sha256 "2feab11d44942be2f7821997e33fb1f048053dfa04abaa5b4ebfaa6565fc8bac"
   license "MIT"
 
   depends_on "python3" => :required
